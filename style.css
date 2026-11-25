@@ -10,7 +10,8 @@ body{
     right:2%;
 }
 @media (prefers-color-scheme: dark){
-html{
-    filter:invert(100%);
+body{
+    background-color: #000000;
+    color:#ffffff;
 }
 }
